@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@analog-labs/timegraph-js": "^0.1.1",
+    "@analog-labs/timegraph-wasm": "^1.0.0",
+    "@polkadot/extension-dapp": "^0.47.3",
+    "@polkadot/keyring": "^12.6.2",
+    "@polkadot/util": "^12.6.2",
+    "@polkadot/wasm-crypto": "^7.3.2",
+    "bbguai": "^1.0.0",
+    "crypto-price-checker-oooooyoung": "^1.0.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0"
+  },
+  "name": "ooooomm",
+  "description": "Some web3 shell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cspell": "^6.31.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weishengbin/ooooomm.git"
+  },
+  "keywords": [],
+  "author": "ooooomm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weishengbin/ooooomm/issues"
+  },
+  "homepage": "https://github.com/weishengbin/ooooomm#readme"
+}
